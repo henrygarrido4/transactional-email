@@ -1,0 +1,445 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * { box-sizing: border-box; } .coupon { border: 3px dashed #cccccc; } .btn
+      { text-decoration: none; color: #fff; background-color: #000; padding:
+      15px 40px; } .btn:hover { color: #fff } .tp-border { border-top: 1px solid
+      #f2f2f2; } .social__icons { width: 300px; }
+    </mj-style>
+    <mj-style inline="inline"> span { font-weight: bold; } </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f4f5f6">
+    <mj-wrapper background-color="#fff" padding="0px">
+      <!-- #HEADER -->
+      <mj-section background-color="#f4f5f6">
+        <mj-raw>
+          <!-- Padding -->
+        </mj-raw>
+      </mj-section>
+      <mj-section background-color="#fff" padding="0px">
+        <mj-column>
+          <mj-image
+            padding="0px"
+            src="https://exclusivecutz.com/onnit/logo.png"
+            alt="onnit logo"
+            href="https://www.onnit.com/"
+            width="152px"
+          />
+        </mj-column>
+      </mj-section>
+
+      <!-- #THANK-YOU -->
+      <mj-section background-color="#fff" padding="60px 0px 20px 0px">
+        <mj-column>
+          <mj-text
+            font-size="46px"
+            align="center"
+            line-height="1"
+            color="#57616b"
+          >
+            Thank you for your order
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- #SOON -->
+      <mj-section padding="20px">
+        <mj-column background-color="#f4f5f6">
+          <mj-text
+            padding="15px 0px "
+            align="center"
+            font-size="16px"
+            line-height="1.4"
+            color="#57616b"
+          >
+            Soon you will receive your order and join the frenzied mass of other
+            satisfied Onnit customers optimizing themselves daily. We hope you
+            love it.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- #SEND-EMAIL -->
+      <mj-section padding="0px">
+        <mj-column>
+          <mj-text font-size="16px" line-height="26px" align="left">
+            We will send you an email once your order ships, usually within two
+            business days.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!--#EARNED A DISCOUNT  -->
+      <mj-section padding="0px 0px 20px 0px">
+        <mj-column>
+          <mj-text
+            font-weight="400"
+            font-size="36px"
+            align="center"
+            line-height="1"
+            color="#57616b"
+          >
+            You've earned a discount
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- #DISCOUNT-CODE -->
+      <mj-section padding="0px 20px 0px 20px">
+        <mj-column background-color="#f4f5f6" width="100%">
+          <mj-text
+            padding="15px 0px "
+            align="center"
+            font-size="16px"
+            line-height="1.4"
+            color="#57616b"
+          >
+            The hardest step in any journey is that very first one. As our way
+            of thanking you for taking that first step with us, here's a coupon
+            code good for up to 10% off your <span>entire</span> next order
+            placed within two weeks.
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%" background-color="#f4f5f6" padding="10px 125px">
+          <mj-text
+            font-size="16px"
+            align="center"
+            css-class="coupon"
+            padding="10px 0px"
+            background-color="#f4f5f6"
+          >
+            journey0bfbd252
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- #SHOP-NOW-BUTTON -->
+      <mj-section padding="40px">
+        <mj-column>
+          <mj-text align="center" font-size="18px" font-weight="500">
+            <a class="btn" href="https://www.onnit.com/search/?q=kettlebells"
+              >SHOP NOW</a
+            >
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- #COUPON EXPERATION -->
+      <mj-section padding="0px">
+        <mj-column width="100%">
+          <mj-text align="center" font-size="16px">
+            Coupon expires on July 8th, 2017
+          </mj-text>
+          <mj-text
+            font-weight="400"
+            font-size="36px"
+            align="center"
+            line-height="1"
+            color="#57616b"
+          >
+            Your receipt
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- #ORDER NUMBER -->
+      <mj-section padding="10px 0 0 0">
+        <mj-column>
+          <mj-text font-size="16px" padding="0px 0 10px 20px">
+            <span>ORDER ID</span>: 1777765
+          </mj-text>
+          <mj-text font-size="16px" padding="0px 0 5px 20px">
+            <span> ORDER DATE</span>: June 24 2024
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- #ORDER-1 -->
+      <mj-section padding="10px 20px 0px 20px">
+        <mj-group>
+          <mj-column background-color="#f4f5f6">
+            <mj-image
+              padding="0px 0px 0px 60px "
+              src="https://exclusivecutz.com/onnit/extreme.png"
+              href="https://www.onnit.com/fitness/"
+              alt="extreme kettlebell"
+              width="121px"
+              align="left"
+            />
+          </mj-column>
+          <mj-column
+            background-color="#f4f5f6"
+            padding-right="15px"
+            padding="39px 0 39px"
+          >
+            <mj-text font-size="16px" line-height="1.4" align="left">
+              Extreme 3 Kettlebell Cardio Workout DVD (Digital Download)
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <!-- #ORDER-2 -->
+      <mj-section padding="10px 20px 0px 20px">
+        <mj-group>
+          <mj-column background-color="#f4f5f6">
+            <mj-image
+              padding="0px 0px 0px 60px "
+              src="https://exclusivecutz.com/onnit/heroes.png"
+              alt="extreme kettlebell"
+              width="121px"
+              align="left"
+            />
+          </mj-column>
+          <mj-column
+            background-color="#f4f5f6"
+            padding-right="15px"
+            padding="55px 0 67px"
+          >
+            <mj-text font-size="16px" line-height="1.4" align="left">
+              $1 Donation to Hire Heroes
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <!-- #SHIPPING AND BILLED -->
+      <mj-section>
+        <mj-group>
+          <mj-column padding="0px">
+            <mj-image
+              width="114px"
+              src="https://exclusivecutz.com/onnit/billed.png"
+              alt="billed to"
+              padding="0px 0 0 0px"
+              align="center"
+            />
+          </mj-column>
+          <mj-column padding="0px">
+            <mj-text
+              padding="0px 0 0 20px"
+              font-size="16px"
+              line-height="25px"
+              align="left"
+            >
+              <span>BILLED TO</span>:<br />
+              Henrry Garrido<br />
+              26 liberty st<br />
+              Stamford, Connecticut 06902 United States
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section>
+        <mj-group>
+          <mj-column padding="0px">
+            <mj-image
+              width="114px"
+              src="https://exclusivecutz.com/onnit/shipped.png"
+              alt="billed to"
+              padding="0px 0 0 0px"
+              align="center"
+            />
+          </mj-column>
+          <mj-column padding="0px">
+            <mj-text
+              padding="0px 0 0 20px"
+              font-size="16px"
+              line-height="25px"
+              align="left"
+            >
+              <span>SHIPPING TO</span>:<br />
+              Henrry Garrido<br />
+              26 liberty st<br />
+              Stamford, Connecticut 06902 United States
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <!-- #FEES -->
+      <mj-section padding="0px 20px 0px 20px">
+        <mj-group>
+          <mj-column background-color="#f4f5f6">
+            <mj-text
+              padding="15px 20px "
+              align="right"
+              font-size="16px"
+              line-height="1"
+              color="#57616b"
+            >
+              Fee:
+            </mj-text>
+            <mj-text
+              padding="15px 20px "
+              align="right"
+              font-size="16px"
+              line-height="1"
+              color="#57616b"
+            >
+              Sub-Total:
+            </mj-text>
+            <mj-text
+              padding="15px 20px "
+              align="right"
+              font-size="16px"
+              line-height="1"
+              color="#57616b"
+            >
+              Total:
+            </mj-text>
+          </mj-column>
+          <mj-column background-color="#f4f5f6">
+            <mj-text
+              padding="15px 0px "
+              align="left"
+              font-size="16px"
+              line-height="1"
+              color="#57616b"
+            >
+              $0.00
+            </mj-text>
+            <mj-text
+              padding="15px 0px "
+              align="left"
+              font-size="16px"
+              line-height="1"
+              color="#57616b"
+            >
+              26.99
+            </mj-text>
+            <mj-text
+              padding="15px 0px "
+              align="left"
+              font-size="16px"
+              line-height="1"
+              color="#57616b"
+            >
+              <span> $26.99</span>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <!-- #NEED HELP -->
+      <mj-section>
+        <mj-column css-class="tp-border" width="93%">
+          <mj-text
+            font-size="18px"
+            align="center"
+            font-weight="800"
+            padding="20px 0 0 0"
+          >
+            NEED HELP?
+          </mj-text>
+          <mj-text
+            padding="5px 0 0 0"
+            font-size="18px"
+            align="center"
+            font-weight="500"
+          >
+            <a href="mailto:help@onnit.com">help@onnit.com</a>
+          </mj-text>
+          <mj-text
+            padding="5px 0 0 0"
+            font-size="18px"
+            align="center"
+            font-weight="500"
+          >
+            <a href="mailto:help@onnit.com">1-855-ONNIT-99</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #FOOTER -->
+    <mj-section background-color="#f4f5f6">
+      <mj-column>
+        <mj-image
+          width="152px"
+          height="58px"
+          src="https://exclusivecutz.com/onnit/footer-logo.png"
+          href="https://www.onnit.com/"
+          alt="onnit logo"
+        />
+        <mj-text
+          padding="0px"
+          align="center"
+          font-size="16px"
+          font-weight="600"
+          text-transform="uppercase"
+          color="#bcc2c8"
+        >
+          total human optimization</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- #SOCIAL ICONS -->
+    <mj-section background-color="#f4f5f6" css-class="social__icons">
+      <mj-group>
+        <mj-column>
+          <mj-image
+            align="center"
+            padding="0px"
+            width="42px"
+            src="https://exclusivecutz.com/onnit/fb.png"
+            href="https://www.facebook.com/Onnit/"
+            alt="facebook icon"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-image
+            align="center"
+            padding="0px"
+            width="42px"
+            src="https://exclusivecutz.com/onnit/twitter.png"
+            href="https://www.x.com/onnit/"
+            alt="twitter icon"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-image
+            align="center"
+            padding="0px"
+            width="42px"
+            src="https://exclusivecutz.com/onnit/insta.png"
+            href="https://www.instagram.com/onnit/"
+            alt="instagram icon"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-image
+            align="center"
+            padding="0px"
+            width="42px"
+            src="https://exclusivecutz.com/onnit/pint.png"
+            href="https://www.pinterest.com/onnit/"
+            alt="pinterest icon"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-image
+            align="center"
+            padding="0px"
+            width="42px"
+            src="https://exclusivecutz.com/onnit/google.png"
+            href="https://www.googleplus.com/onnit/"
+            alt="google icon"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-image
+            align="center"
+            padding="0px"
+            width="42px"
+            src="https://exclusivecutz.com/onnit/yt.png"
+            href="https://www.youtube.com/onnit/"
+            alt="youtube icon"
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
